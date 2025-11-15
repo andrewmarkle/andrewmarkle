@@ -2,9 +2,7 @@
 
 I'm a staff software engineer at [Fullscript](https://fullscript.com).
 
-I really ❤️ working in Ruby.
-I'm a father with 2 kids. 
-I live in Ottawa, Canada.
+I really ❤️ working in Ruby. I'm a father with 2 kids and I live in Ottawa, Canada.
 
 
 <!--
